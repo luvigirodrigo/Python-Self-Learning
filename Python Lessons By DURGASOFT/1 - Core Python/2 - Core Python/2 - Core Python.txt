@@ -1,0 +1,97 @@
+=============================================================================================
+1. What is Python ? 
+=============================================================================================
+
+ 1. Python is a general purpose high level programming language. Using Python, we can develop
+	- Web, desktop applications
+	- Machine learning
+	- Scientific applicaitons
+	- AI and robotics applications
+	- IOT applications and more
+
+ 2. Python was developed by Guido Van Rossam (Farther of Python) in 1989 while working at
+    National Research Institute (NRI) in Netherland.
+	
+	But Python was officialy made available to the public on 20th of February 1991 (Official DOB)
+	
+ 3. Python is highly recommended as the first programming language to learn for a beginner
+ 
+ 4. The biggest advantage of Python is that we can write programs very easily with concise code
+ 
+ 5.  Comparing Python with Java: 
+ 
+	5.1 Example 1 : 
+	-------------------------------------------------------------------------------------------------------------
+		
+		* JAVA :
+		..................................................
+		public class HelloWorld {
+			public static void main(String[] args){
+				System.out.println("Hello World");
+			}
+		}
+		..................................................
+		
+		
+		- Should save the file with the name HelloWorld, and then,
+			> javac HelloWorld.java
+			> java HelloWorld
+		
+		In Java, just to print Hello World, we need to write a class, write main method, write print statement and after that
+		it should be compiled and then it should be executed
+		
+		
+		* PYTHON :
+		..................................................
+		print('Hello World')
+		..................................................
+		
+		
+		Just one line is enough (Python IDLE is more suitable for a hello world)
+ 
+ 	5.2 Example 2 : 
+	-------------------------------------------------------------------------------------------------------------
+	
+		- A program for calculating the total of two numbers
+ 
+		* JAVA :
+		..................................................
+		public class Demo {
+			public static void main(String[] args){
+				int a = 20;
+				int b = 10;
+				System.out.println(a+b);
+			}
+		}
+		..................................................
+		
+		
+		* PYTHON : 
+		..................................................
+		a,b=20,10
+		print(a+b)
+		..................................................
+ 
+ 
+ 00:32 p2 (TEMP)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
